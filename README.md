@@ -1,7 +1,7 @@
 # 3D-Tara-Model
 I've entered the 3rd dimension！☛☛
 
-Nya'll can download my .vroid model here： 
+This mean nya'll can now download my .vroid model here： 
 https://drive.google.com/open?id=1PiVsxYTCsl4HFkYCoS4sWpoAnl9dO571
 
 To upload it to VRChat follow this handy-dandy tutorial：
