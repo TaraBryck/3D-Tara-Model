@@ -11,4 +11,4 @@ __Model Appearance__
 
 __VRChat__
 
-・Add dabbing emote
+・Add dabbing & finger guns emotes
